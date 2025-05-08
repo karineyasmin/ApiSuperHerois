@@ -2,7 +2,7 @@ using SuperHerois.Api.Data;
 
 namespace SuperHerois.Api.Repositories;
 
-public class SuperPoderRepository : ISuperPoderRespository
+public class SuperPoderRepository : ISuperPoderRepository
 {
     private readonly AppDbContext _appDbContext;
 

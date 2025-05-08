@@ -1,6 +1,6 @@
 namespace SuperHerois.Api.Repositories;
 
-public interface ISuperPoderRespository
+public interface ISuperPoderRepository
 {
 
 }
